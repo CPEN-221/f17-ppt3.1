@@ -7,7 +7,7 @@ November 7, 2017
 
 ## General Instructions
 
-+ You have 75 minutes (1h 15m) to complete the assigned tasks.
++ You have 72 minutes (1h 12m) to complete the assigned tasks.
 + Take your time to read the question.
 + Skeleton code can be obtained by cloning this repository. Add JUnit to your build path in Eclipse.
 + Best of luck!
