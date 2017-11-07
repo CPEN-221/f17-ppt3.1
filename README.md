@@ -144,6 +144,13 @@ public void test8() {
 	assertTrue(!oeb1.equals(oeb2));
 	assertTrue(!oeb2.equals(oeb1));
 }
+
+@Test
+public void test9() {
+	OddEvenBag oeb = new OddEvenBag();
+	String s = "abc";
+	assertTrue(!oeb.equals(s));
+}
 ```
 
 ## What Should You Implement / Guidelines
